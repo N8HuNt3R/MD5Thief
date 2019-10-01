@@ -3,6 +3,15 @@
 from termcolor import colored
 import hashlib
 
+print("  _   _  _____  _   _       _   _ _   ___________ ")
+print(" | \ | ||  _  || | | |     | \ | | | |____ | ___ \ ")
+print(" |  \| | \ V / | |_| |_   _|  \| | |_    / / |_/ /")
+print(" | . ` | / _ \ |  _  | | | | . ` | __|   \ \    / ")
+print(" | |\  || |_| || | | | |_| | |\  | |_.___/ / |\ \ ")
+print(" \_| \_/\_____/\_| |_/\__,_\_| \_/\__\____/\_| \_|")
+                                                 
+                                                 
+
 def tryOpen(wordlist):
     global pass_file
     try:
